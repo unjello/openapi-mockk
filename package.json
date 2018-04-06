@@ -1,9 +1,9 @@
 {
-  "name": "openapi-mock",
+  "name": "openapi-mockk",
   "version": "0.1.0",
   "description": "Generates data based on OpenAPI 3.0 specification ",
   "main": "lib/index.js",
-  "repository": "unjello/openapi-mock", 
+  "repository": "unjello/openapi-mockk", 
   "scripts": {
     "test": "standard"
   },
