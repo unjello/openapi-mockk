@@ -1,0 +1,25 @@
+{
+  "name": "openapi-mock",
+  "version": "0.1.0",
+  "description": "Generates data based on OpenAPI 3.0 specification ",
+  "main": "lib/index.js",
+  "repository": "unjello/openapi-mock", 
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "openapi3",
+    "oapi3",
+    "swagger",
+    "oasv3"
+  ],
+  "author": "Andrzej Lichnerowicz <andrzej@lichnerowicz.pl>",
+  "license": "Unlicense",
+  "dependencies": {
+    "call-me-maybe": "^1.0.1",
+    "openapi-parser": "^0.1.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
