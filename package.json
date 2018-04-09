@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Generates data based on OpenAPI 3.0 specification ",
   "main": "lib/index.js",
-  "repository": "unjello/openapi-mockk", 
+  "repository": "unjello/openapi-mockk",
   "scripts": {
     "test": "standard"
   },
@@ -20,6 +20,7 @@
     "openapi-parser": "^0.1.0"
   },
   "devDependencies": {
+    "jest": "^22.4.3",
     "standard": "^11.0.1"
   }
 }
