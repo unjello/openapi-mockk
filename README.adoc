@@ -1,0 +1,5 @@
+image::http://unmaintained.tech/badge.svg[link=http://unmaintained.tech/]
+
+= DEPRECATED
+
+_openapi-parser_ is no longer supported, please consider using https://github.com/swagger-api/swagger-parser[swagger-parser].
